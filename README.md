@@ -1,3 +1,3 @@
 # FVKR
-CRM System for Dental Clinic An automated accounting system for a dental clinic can significantly simplify and speed up the process of processing information, increase the efficiency of the clinic, reduce the number of errors, increase the accuracy of diagnosis and treatment of patients, and also increase the level of comfort for patients.
-
+Данный проект является автоматизированной системой учета для стоматологической клиники, которая позволяет существенно упростить и ускорить процесс обработки информации, повысить эффективность работы клиники и снизить количество ошибок.
+Программа была разработана на языке C# с использованием фреймворка ASP.NET MVC Framework. В качестве БД был использван MSSQL
